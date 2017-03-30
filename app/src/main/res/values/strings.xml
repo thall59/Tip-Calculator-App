@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tip Calculator</string>
+    <string name="amount_textview">Amount</string>
+    <string name="custom_percent_textview">Custom %</string>
+    <string name="fifteen_percent_textview">15 %</string>
+    <string name="percent_custom_textview">20 %</string>
+    <string name="tip_textview">Tip</string>
+    <string name="total_textview">Total</string>
+</resources>
