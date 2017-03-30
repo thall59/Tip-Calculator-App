@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Tifa\AndroidStudioProjects\Assignment5\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="C:\Users\Tifa\AndroidStudioProjects\Assignment5\app\build\intermediates\pre-dexed\release\internal_impl-24.2.0_c1348bd11dc32c33c3b50e0c13a0c92896044624.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tifa\AndroidStudioProjects\Assignment5\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="C:\Users\Tifa\AndroidStudioProjects\Assignment5\app\build\intermediates\pre-dexed\release\com.android.support-support-fragment-24.2.0_0d029005d73ce376cb4a563caa9ae59dd8d9a787.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tifa\AndroidStudioProjects\Assignment5\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="C:\Users\Tifa\AndroidStudioProjects\Assignment5\app\build\intermediates\pre-dexed\release\com.android.support-animated-vector-drawable-24.2.0_5ef95f081f64b886ed5f8d787bd189ad150d4d64.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tifa\AndroidStudioProjects\Assignment5\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="C:\Users\Tifa\AndroidStudioProjects\Assignment5\app\build\intermediates\pre-dexed\release\com.android.support-support-core-ui-24.2.0_a50d8735e1500a2c19a9119481b82b35ce619805.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tifa\AndroidStudioProjects\Assignment5\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="C:\Users\Tifa\AndroidStudioProjects\Assignment5\app\build\intermediates\pre-dexed\release\internal_impl-24.2.0_de3a1a07696e4eeaeb9f716efff7b18b14407965.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tifa\AndroidStudioProjects\Assignment5\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="C:\Users\Tifa\AndroidStudioProjects\Assignment5\app\build\intermediates\pre-dexed\release\internal_impl-24.2.0_621f5a784a2c5f47cb4958804811e7202135e0a9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tifa\AndroidStudioProjects\Assignment5\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="C:\Users\Tifa\AndroidStudioProjects\Assignment5\app\build\intermediates\pre-dexed\release\com.android.support-support-core-utils-24.2.0_1c3c6f1612dd572e0d253bd388e55c47de0d7fe7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tifa\AndroidStudioProjects\Assignment5\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="C:\Users\Tifa\AndroidStudioProjects\Assignment5\app\build\intermediates\pre-dexed\release\internal_impl-24.2.0_9c8b1bc0cc50d96fe506f51c45ad88b6e23e04a6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tifa\AndroidStudioProjects\Assignment5\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="C:\Users\Tifa\AndroidStudioProjects\Assignment5\app\build\intermediates\pre-dexed\release\com.android.support-support-compat-24.2.0_8a9417f06841e3517fbd4d9d8c76e59abbc192c3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tifa\AndroidStudioProjects\Assignment5\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="C:\Users\Tifa\AndroidStudioProjects\Assignment5\app\build\intermediates\pre-dexed\release\com.android.support-support-vector-drawable-24.2.0_2a9ab1e49b524b9a275b22da2e0e1a7e5992a405.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tifa\AndroidStudioProjects\Assignment5\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="C:\Users\Tifa\AndroidStudioProjects\Assignment5\app\build\intermediates\pre-dexed\release\internal_impl-24.2.0_42395e29b93a908d709cb4ff918adc0877d4de23.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tifa\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="C:\Users\Tifa\AndroidStudioProjects\Assignment5\app\build\intermediates\pre-dexed\release\support-annotations-24.2.0_0a482b8c0bddd8b2a591e44da42aab67fd512472.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tifa\AndroidStudioProjects\Assignment5\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="C:\Users\Tifa\AndroidStudioProjects\Assignment5\app\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-24.2.0_ec5a9a44a901a127a9709443c4559c1db6ef8511.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tifa\AndroidStudioProjects\Assignment5\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="C:\Users\Tifa\AndroidStudioProjects\Assignment5\app\build\intermediates\pre-dexed\release\com.android.support-support-media-compat-24.2.0_73b861765aa8d300106c3d1d9e5f0c53cbafc8a2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tifa\AndroidStudioProjects\Assignment5\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="C:\Users\Tifa\AndroidStudioProjects\Assignment5\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-24.2.0_0ebfb8bb341e3bbb20903d435f81d79a6e52fbce.jar" />
+    </item>
+
+</items>
